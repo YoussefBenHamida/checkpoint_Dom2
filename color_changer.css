@@ -1,0 +1,17 @@
+.container {
+    display: grid;
+    place-items: center; 
+    margin-top: 20px
+}
+#color-box{
+    width: 250px;
+    height: 200px;
+    background-color: #beb9b5;
+}
+#change-color-btn{
+    background-color: #e65a5a;
+    width:100px;
+    height: 50px;
+    margin-top: 30%;
+    margin-left: 30%;
+}
